@@ -10,27 +10,27 @@
   - $ git config --global user.name (username)
   - $ git config --glabal user.email (useremail)
   - $ git config --global --list
-  ex) username : seok4575
+    - ex) username : seok4575
 
 3. create a new repository		
   * Initialize this repository with a README - check!
-  ex) repository name : cqre_linux 
+    - ex) repository name : cqre_linux 
            -> address : https://github.com/seok4575/cqre_linux
   
 4. create a source file		
   - printf("Hello world!");
-  ex) hello.c
+    - ex) hello.c
   
 5. git clone		
   - $ git clone (address)
-  -> create folder cqre_linux
+    - create folder cqre_linux
   
 6. git add		
   - $ git add (filename)
   
 7. git commit		
   - $ git commit -m "message"
-  ex) message : print hello world
+    - ex) message : print hello world
   
 8. git remote		
   - $ git remote add origin (address)
@@ -40,7 +40,7 @@
 
 10. update a source file		
   - printf("Hello Linux!);
-  ex) hello.c
+    - ex) hello.c
   
 11 = 6. git add		
   - $ git add hello.c
